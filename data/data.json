@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Foydalanuvchi 1",
+        "phone_number": "+998901234567"
+    },
+    {
+        "id": 2,
+        "name": "Foydalanuvchi 2",
+        "phone_number": "+998901234568"
+    },
+    {
+        "id": 3,
+        "name": "Foydalanuvchi 3",
+        "phone_number": "+998901234569"
+    },
+    {
+        "id": 4,
+        "name": "Foydalanuvchi 4",
+        "phone_number": "+998901234570"
+    },
+    {
+        "id": 5,
+        "name": "Foydalanuvchi 5",
+        "phone_number": "+998901234571"
+    }
+]
